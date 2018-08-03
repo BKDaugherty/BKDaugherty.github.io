@@ -39,7 +39,6 @@ var line_index = 0
 var text_data_index = 0
 function write_line(element, callback){
     var line = intro_text_data[text_data_index]
-    console.log(line);
     if(line_index < line.length){
         var curr_character = line.charAt(line_index)
         var comma_delay = curr_character == ',' ? typewriter_delay_comma : 0
