@@ -25,7 +25,8 @@ var seven_syll_lines = [
     "GitCoin is dope, lets buidl",
     "I ride my skateboard to work",
     "I hope you're not sick of this",
-    "I might enroll in grad school",  
+    "I might enroll in grad school", 
+    "Coffee gets me through the day", 
 ]
 
 var typewriter_delay_char = 80
