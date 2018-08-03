@@ -30,7 +30,7 @@ var seven_syll_lines = [
 ]
 
 var typewriter_delay_char = 80
-var typewriter_delay_line = 800
+var typewriter_delay_line = 2000
 var typewriter_delay_comma = 400
 var effect_delay = 1000
 var typewriter_delay_seven_syll = 4000
