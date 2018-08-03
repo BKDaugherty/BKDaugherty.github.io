@@ -12,7 +12,7 @@ var seven_syll_lines = [
     "Right now, I live in LA",
     "I like Graphics and Engines",
     "I create Technical Art",
-    "I like Docker and Pirates",
+    "I am a Docker Pirate",
     "I use brew for packages",
     "I want to travel the world",
     "Check out my profiles below",
